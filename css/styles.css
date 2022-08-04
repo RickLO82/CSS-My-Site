@@ -1,0 +1,147 @@
+/***************normal tags**************/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #395B64;
+    font-size: 90px;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-weight: bolder;
+}
+
+h2 {
+    color: #395B64;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h3 {
+    color: #A5C9CA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #A5C9CA;
+}
+
+hr {
+    color: #EEEEEE;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EEEEEE;
+    border-width: 10px;
+    width: 5%;
+}
+
+/**************classes*******************/
+
+.topContainer {
+    background-color: #E7F6F2;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.profile {
+    margin: 100px;
+}
+
+.bottom-container {
+    background-color: #E7F6F2;
+    height: 200px;
+    color: #395B64;
+    padding: 50px;
+}
+
+.footer-link {
+    color: #395B64;
+    padding: 30px;
+}
+
+.footer-link:hover {
+    color: #A5C9CA;
+}
+
+.btn {
+    background-color: #395B64;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: #2C3333;
+}
+
+.copyright {
+    padding: 20px;
+}
+
+.skills {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.topCloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottomCloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.hilrickImg {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.computer {
+    width: 22%;
+    float: left;
+    margin-right: 30px;
+}
+
+.learning {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    padding: 20px;
+}
+
+.my-description {
+    width: 25%;
+    margin-left: 650px;
+    line-height: 2;
+}
+
+.contact-me {
+    margin: 100px;
+}
